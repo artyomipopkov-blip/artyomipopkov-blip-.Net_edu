@@ -10,7 +10,7 @@ namespace Homework1
         {
             Console.WriteLine("Райнер Мария Рильке");
             Console.WriteLine("Читатель");
-            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.ForegroundColor = ConsoleColor.DarkRed;
             Console.WriteLine("Кем он бывает, в чтенье погружён?");
             Console.WriteLine("В каких мирах витает, где границы");
             Console.WriteLine("Тех странных стран, что с каждою страницей");
